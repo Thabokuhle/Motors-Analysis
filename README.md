@@ -20,8 +20,8 @@ TOTAL_REVENUE = SELLINGPRICE
 
  1. Revenue & Mileage by Year of Manufacture
 Charts Used:
-✔ Bar chart (Total Revenue)
-✔ Line chart (Average Odometer)
+Bar chart (Total Revenue)
+Line chart (Average Odometer)
 Insights:
 2008 generated the highest revenue.
 Older vehicles (2005–2007) have higher mileage, while newer vehicles (2014) have significantly lower mileage.
@@ -30,8 +30,8 @@ newer cars (lower mileage) generally maintain higher selling prices.
 
  3. Revenue by Vehicle Make
 Charts Used:
-✔ Bar chart
-✔ Trend line chart
+Bar chart
+Trend line chart
 Insights:
 Dodge is the top-performing brand, generating the highest revenue.
 Ford and Mercedes-Benz also show strong revenue performance.
@@ -39,9 +39,9 @@ GMC, Jeep, and Land Rover show lower revenue contribution compared to leading br
 
  4. Revenue by State
 Charts Used:
-✔ Bar chart
-✔ Donut chart
-Insights:
+Bar chart,
+Donut chart,
+## Insights:
 The states with the highest total revenue are:
 CA (California)
 FL (Florida)
@@ -50,7 +50,7 @@ Regions such as NC, NV, and VA show lower total revenue, suggesting opportunitie
 
  5. Average Mileage Trends
 Charts Used:
-✔ Line chart
+Line chart
 Insights:
 Mileage consistently decreases in newer model years.
 Vehicles from 2014 have the lowest average odometer readings.
