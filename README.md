@@ -16,8 +16,8 @@ SELLINGPRICE – Final sale price
 SALEDATE – Transaction date
 A new calculated field was added:
 TOTAL_REVENUE = SELLINGPRICE
-## Key Analyses & Insights
-
+## Key Analyses and Insights
+ 
  1. Revenue & Mileage by Year of Manufacture
 Charts Used:
 Bar chart (Total Revenue)
@@ -41,7 +41,7 @@ GMC, Jeep, and Land Rover show lower revenue contribution compared to leading br
 Charts Used:
 Bar chart,
 Donut chart,
-## Insights:
+
 The states with the highest total revenue are:
 CA (California)
 FL (Florida)
@@ -76,7 +76,7 @@ States with lower sales (NC, NV, VA) could benefit from:
 Local promotions
 Partnerships with used car dealers
 Campaigns highlighting affordability or financing options
-## Files
+
 
 ## Tools & Methods Used
 Google Sheets
